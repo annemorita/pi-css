@@ -1,0 +1,31 @@
+
+.divA {
+    background-color: #ff1c0c;
+    width: 300px;
+    height: 300px;
+    
+}
+.divB {
+    background-color: #adc71c;
+    width: 60%;
+    height: 60%;
+    
+}
+.divC {
+    background-color: rgb(22, 51, 212);
+    width: 200px;
+    height: 300px;
+}
+.divD {
+    background-color: rgb(150, 17, 139);
+    width: 100px;
+    height: 300px;
+}
+.divE {
+    background-color: rgb(255, 0, 157);
+    margin: 0;
+    width: 300px;
+    height: 200px;
+    font-size: medium; color:rgb(88, 83, 83); font-family: Verdana;
+    
+}
